@@ -1,0 +1,501 @@
+date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release_date,is_explicit,album_cover_url
+,71,Tum Hi Aana,Jubin Nautiyal,27,294794,single,7,01-10-2023,FALSE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+25-01-2022 00:00,109,Naatu Naatu,M.M. Keeravani,29,250000,single,12,15-07-2021,FALSE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+18-02-2023 00:00,159,Tum Hi Aana,Jubin Nautiyal,83,250500,single,8,15-05-2021,TRUE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+21-11-2025 00:00,156,Naatu Naatu,M.M. Keeravani,41,317000,EP,11,,TRUE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+12-11-2024 00:00,128,Naatu Naatu,M.M. Keeravani,68,250500,EP,12,07-12-2024,FALSE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+21-03-2020 00:00,,Tum Hi Aana,Jubin Nautiyal,56,250500,EP,10,15-07-2021,TRUE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+24-01-2023 00:00,129,Tum Se Hi,Anuv Jain,56,250500,single,10,11-10-2015,TRUE,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+03-10-2021 00:00,188,Tum Se Hi,Anuv Jain,26,250000,single,10,15-07-2021,TRUE,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+03-04-2021 00:00,,Apna Bana Le (Reprise),Arijit Singh,85,141885,single,3,,FALSE,https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262
+,68,Raahon Mein,Armaan Malik,56,198000,single,10,24-01-2023,TRUE,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+02-03-2024 00:00,21,Apna Bana Le,Arijit Singh,18,176000,EP,20,15-07-2021,FALSE,https://i.scdn.co/image/ab67616d0000b273b51d9a74d356d785cce9dea9
+08-06-2025 00:00,,Tum Se Hi,Anuv Jain,56,250000,EP,19,,FALSE,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+06-05-2022 00:00,181,Tum Hi Aana,Jubin Nautiyal,88,285385,single,9,,TRUE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+26-03-2021 00:00,106,Raataan Lambiyan,Jubin Nautiyal & Asees Kaur,62,209941,album,12,,TRUE,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+,103,Naatu Naatu,M.M. Keeravani,56,250500,single,12,09-10-2017,FALSE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+20-07-2022 00:00,,Gallan Goriyan,Dhvani Bhanushali,34,153000,album,14,15-07-2021,TRUE,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+07-11-2023 00:00,122,Gallan Goriyan,Dhvani Bhanushali,56,245000,EP,10,01-03-2018,FALSE,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+16-07-2024 00:00,77,Kesariya,Arijit Singh,78,250000,album,12,15-07-2021,FALSE,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+14-09-2022 00:00,,Kesariya (Reprise),Arijit Singh,56,250500,EP,10,15-07-2021,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+12-09-2024 00:00,141,Kesariya (Reprise),Arijit Singh,56,256000,single,12,18-12-2016,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+13-09-2021 00:00,,Kesariya (Reprise),Arijit Singh,64,168000,EP,12,02-06-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+,,Raataan Lambiyan,Jubin Nautiyal & Asees Kaur,70,250500,EP,15,15-07-2021,FALSE,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+03-09-2025 00:00,19,Tum Hi Aana,Jubin Nautiyal,56,250500,EP,12,16-09-2023,FALSE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+01-05-2024 00:00,,Raahon Mein,Armaan Malik,56,168000,album,10,,FALSE,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+22-06-2022 00:00,85,Apna Bana Le,Arijit Singh,56,244976,album,12,28-07-2016,FALSE,https://i.scdn.co/image/ab67616d0000b273b51d9a74d356d785cce9dea9
+15-02-2021 00:00,40,Apna Bana Le (Reprise),Arijit Singh,56,330000,album,18,15-07-2021,FALSE,https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262
+26-06-2023 00:00,1,Tum Se Hi,Anuv Jain,56,250000,album,10,15-07-2023,FALSE,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+15-02-2025 00:00,178,Tum Hi Aana,Jubin Nautiyal,15,250000,single,10,22-10-2021,FALSE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+08-11-2024 00:00,150,Kesariya (Reprise),Arijit Singh,56,260473,album,10,,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+07-05-2023 00:00,124,Raahon Mein,Armaan Malik,56,250500,single,12,15-07-2021,FALSE,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+17-06-2024 00:00,43,Naatu Naatu,M.M. Keeravani,56,304000,single,10,26-02-2020,TRUE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+15-08-2021 00:00,,Kesariya,Arijit Singh,56,317000,single,15,21-04-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+03-04-2024 00:00,54,Naatu Naatu,M.M. Keeravani,52,137000,single,12,22-02-2017,TRUE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+09-03-2020 00:00,190,Naatu Naatu,M.M. Keeravani,77,250500,EP,19,08-09-2022,FALSE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+17-10-2020 00:00,169,Kesariya (Reprise),Arijit Singh,56,250500,EP,12,20-10-2023,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+,180,Tum Se Hi,Anuv Jain,53,250000,single,10,03-01-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+24-05-2022 00:00,,Apna Bana Le,Arijit Singh,16,181264,album,10,,TRUE,https://i.scdn.co/image/ab67616d0000b273b51d9a74d356d785cce9dea9
+10-02-2023 00:00,,Apna Bana Le (Reprise),Arijit Singh,15,120000,album,7,11-05-2019,FALSE,https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262
+02-12-2024 00:00,147,Raahon Mein,Armaan Malik,56,250000,single,10,21-09-2016,FALSE,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+12-03-2025 00:00,,Gallan Goriyan,Dhvani Bhanushali,60,250500,single,17,,TRUE,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+28-03-2024 00:00,165,Raataan Lambiyan,Jubin Nautiyal & Asees Kaur,57,275242,single,12,27-03-2023,FALSE,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+11-06-2023 00:00,184,Apna Bana Le,Arijit Singh,47,151483,album,10,16-09-2021,FALSE,https://i.scdn.co/image/ab67616d0000b273b51d9a74d356d785cce9dea9
+22-10-2021 00:00,9,Raataan Lambiyan,Jubin Nautiyal & Asees Kaur,56,234935,EP,10,12-06-2022,FALSE,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+11-09-2022 00:00,,Apna Bana Le (Reprise),Arijit Singh,56,250500,EP,15,23-05-2024,TRUE,https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262
+03-08-2025 00:00,,Tum Hi Aana,Jubin Nautiyal,56,225000,album,17,26-04-2016,FALSE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+19-11-2024 00:00,34,Raataan Lambiyan,Jubin Nautiyal & Asees Kaur,74,199000,single,10,17-06-2018,TRUE,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+10-09-2025 00:00,,Kesariya,Arijit Singh,56,250000,album,12,,TRUE,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+03-09-2022 00:00,186,Naatu Naatu,M.M. Keeravani,56,144101,single,20,22-10-2022,TRUE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+17-09-2023 00:00,63,Kesariya,Arijit Singh,36,245000,single,12,20-10-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+19-08-2023 00:00,58,Tum Hi Aana,Jubin Nautiyal,97,250000,EP,16,23-01-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+09-02-2020 00:00,,Gallan Goriyan,Dhvani Bhanushali,70,159489,single,11,05-10-2018,TRUE,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+21-12-2021 00:00,153,Tum Hi Aana,Jubin Nautiyal,23,250500,EP,12,14-06-2022,TRUE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+24-09-2021 00:00,,Kesariya,Arijit Singh,56,329000,album,12,14-05-2016,FALSE,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+14-09-2022 00:00,,Raataan Lambiyan,Jubin Nautiyal & Asees Kaur,56,167000,album,12,23-01-2021,TRUE,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+27-12-2020 00:00,9,Naatu Naatu,M.M. Keeravani,43,169000,single,10,20-12-2020,FALSE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+12-10-2020 00:00,,Naatu Naatu,M.M. Keeravani,56,215846,single,14,11-05-2019,FALSE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+24-02-2025 00:00,,Kesariya,Arijit Singh,56,352000,album,12,18-06-2019,FALSE,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+05-12-2025 00:00,176,Gallan Goriyan,Dhvani Bhanushali,37,250000,album,12,09-04-2017,FALSE,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+01-12-2022 00:00,,Kesariya (Reprise),Arijit Singh,56,170000,album,13,21-08-2018,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+04-12-2022 00:00,110,Gallan Goriyan,Dhvani Bhanushali,56,250000,EP,12,06-10-2022,TRUE,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+24-04-2020 00:00,1,Kesariya (Reprise),Arijit Singh,56,358000,single,10,08-07-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+19-02-2023 00:00,,Raataan Lambiyan,Jubin Nautiyal & Asees Kaur,56,250000,EP,12,08-05-2022,FALSE,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+15-08-2021 00:00,,Tum Hi Aana,Jubin Nautiyal,56,220821,single,10,23-12-2019,FALSE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+13-06-2021 00:00,174,Raataan Lambiyan,Jubin Nautiyal & Asees Kaur,43,335000,single,15,01-02-2017,FALSE,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+09-10-2023 00:00,126,Kesariya (Reprise),Arijit Singh,39,250500,EP,7,06-12-2020,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+28-02-2021 00:00,19,Kesariya (Reprise),Arijit Singh,56,250500,album,5,16-11-2021,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+19-11-2021 00:00,,Kesariya (Reprise),Arijit Singh,47,250000,EP,2,26-06-2024,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+08-02-2025 00:00,,Apna Bana Le,Arijit Singh,56,136000,single,12,24-02-2019,FALSE,https://i.scdn.co/image/ab67616d0000b273b51d9a74d356d785cce9dea9
+13-08-2023 00:00,140,Raahon Mein,Armaan Malik,83,182639,album,12,03-02-2019,FALSE,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+13-01-2020 00:00,141,Tum Se Hi,Anuv Jain,16,250000,single,4,21-03-2018,FALSE,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+10-03-2021 00:00,83,Tum Hi Aana,Jubin Nautiyal,63,250000,EP,10,17-01-2020,TRUE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+22-09-2020 00:00,,Raahon Mein,Armaan Malik,56,250500,album,12,23-11-2019,FALSE,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+22-07-2024 00:00,,Naatu Naatu,M.M. Keeravani,56,250000,album,10,23-10-2015,TRUE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+12-02-2021 00:00,164,Kesariya,Arijit Singh,78,295693,EP,1,15-07-2016,FALSE,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+12-04-2024 00:00,76,Naatu Naatu,M.M. Keeravani,73,266003,single,3,16-11-2024,FALSE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+26-08-2024 00:00,174,Tum Hi Aana,Jubin Nautiyal,56,250000,single,12,09-02-2015,FALSE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+25-02-2020 00:00,88,Gallan Goriyan,Dhvani Bhanushali,56,177000,album,10,09-02-2021,FALSE,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+01-02-2024 00:00,,Raahon Mein,Armaan Malik,56,250500,single,10,25-04-2019,TRUE,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+18-12-2025 00:00,,Tum Hi Aana,Jubin Nautiyal,56,250000,EP,10,24-01-2015,FALSE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+14-03-2024 00:00,138,Apna Bana Le (Reprise),Arijit Singh,38,250500,single,10,27-09-2022,TRUE,https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262
+18-05-2021 00:00,59,Tum Hi Aana,Jubin Nautiyal,56,246023,album,10,24-11-2015,FALSE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+02-02-2021 00:00,153,Apna Bana Le (Reprise),Arijit Singh,78,250500,single,10,03-06-2023,FALSE,https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262
+28-10-2025 00:00,141,Naatu Naatu,M.M. Keeravani,92,216192,single,12,06-05-2020,TRUE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+02-01-2023 00:00,,Gallan Goriyan,Dhvani Bhanushali,56,250000,album,10,09-09-2016,FALSE,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+18-10-2021 00:00,,Tum Hi Aana,Jubin Nautiyal,56,250000,single,12,26-10-2020,FALSE,https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163
+10-02-2021 00:00,105,Tum Se Hi,Anuv Jain,34,291515,album,10,12-07-2020,FALSE,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+24-02-2025 00:00,115,Raataan Lambiyan,Jubin Nautiyal & Asees Kaur,56,250000,EP,1,20-08-2017,TRUE,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+22-07-2020 00:00,20,Tum Se Hi,Anuv Jain,56,251000,album,7,05-07-2018,FALSE,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+03-02-2020 00:00,,Gallan Goriyan,Dhvani Bhanushali,56,250500,album,10,08-07-2019,TRUE,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f
+17-01-2024 00:00,101,Raahon Mein,Armaan Malik,56,120000,album,19,20-06-2020,FALSE,https://i.scdn.co/image/ab67616d0000b27360df033c8f8b17384387666a
+04-11-2023 00:00,86,Naatu Naatu,M.M. Keeravani,56,230214,album,20,21-10-2024,TRUE,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40
+15-05-2023 00:00,,Tum Se Hi,Anuv Jain,62,128000,EP,10,06-04-2016,TRUE,https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3
+07-08-2024 00:00,5,Apna Bana Le,Arijit Singh,12,257000,EP,10,04-03-2015,FALSE,https://i.scdn.co/image/ab67616d0000b273b51d9a74d356d785cce9dea9
+17-02-2025 00:00,,Kesariya,Arijit Singh,51,250000,EP,10,28-01-2020,FALSE,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+04-04-2020 00:00,50,Raataan Lambiyan,Jubin Nautiyal & Asees Kaur,56,250500,single,10,07-01-2016,FALSE,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e
+27-07-2025 00:00,,Kesariya,Arijit Singh,44,244000,EP,4,13-09-2018,FALSE,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+03-12-2021 00:00,45,Kesariya (Reprise),Arijit Singh,98,250000,single,12,14-07-2020,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+22-04-2021 00:00,,Kesariya,Arijit Singh,20,250500,single,10,15-05-2016,TRUE,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+11-05-2024 00:00,101,Kesariya,Arijit Singh,56,250500,single,12,09-09-2015,TRUE,https://i.scdn.co/image/ab67616d0000b273f66501800b3a51af3bc69f8d
+22-09-2022 00:00,161,The Fate of Ophelia,Taylor Swift,35,250500,album,18,01-11-2022,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+14-03-2023 00:00,168,Opalite,Taylor Swift,45,293000,EP,10,01-11-2022,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+25-01-2020 00:00,,Birds of a Feather,Billie Eilish,83,306332,album,10,,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+03-07-2020 00:00,9,Blinding Lights,The Weeknd,57,184000,album,10,,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+24-10-2022 00:00,,Blinding Lights,The Weeknd,87,300000,single,10,01-11-2022,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+10-07-2022 00:00,43,Die With A Smile,Lady Gaga & Bruno Mars,42,300000,single,17,23-10-2017,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+19-08-2020 00:00,24,Stay,The Kid LAROI & Justin Bieber,93,300000,EP,12,01-11-2022,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+11-03-2025 00:00,169,Watermelon Sugar,Harry Styles,23,300000,album,6,,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+20-01-2023 00:00,,Levitating,Dua Lipa,56,257518,single,10,18-11-2024,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+28-03-2019 00:00,,Die With A Smile,Lady Gaga & Bruno Mars,43,146000,single,10,01-11-2022,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+03-01-2021 00:00,95,Levitating,Dua Lipa,13,226764,EP,10,01-11-2022,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+10-05-2019 00:00,141,Opalite,Taylor Swift,56,239485,single,10,16-11-2020,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+11-09-2025 00:00,106,The Fate of Ophelia,Taylor Swift,56,361000,EP,10,,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+13-10-2023 00:00,30,Watermelon Sugar,Harry Styles,95,300000,single,10,17-04-2019,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+17-08-2019 00:00,124,Die With A Smile,Lady Gaga & Bruno Mars,56,250500,single,10,,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+22-01-2021 00:00,86,Watermelon Sugar,Harry Styles,56,250500,EP,10,01-11-2022,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+04-05-2020 00:00,,APT.,ROSÉ & Bruno Mars,56,257000,EP,10,01-11-2022,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+22-08-2019 00:00,28,Levitating,Dua Lipa,56,300000,EP,10,23-04-2020,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+27-02-2023 00:00,79,Good 4 U,Olivia Rodrigo,13,300000,EP,2,19-03-2018,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+18-07-2023 00:00,99,Good 4 U,Olivia Rodrigo,28,354000,EP,10,19-09-2021,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+22-01-2023 00:00,189,Levitating,Dua Lipa,41,250500,album,10,28-05-2019,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+19-04-2020 00:00,165,Levitating,Dua Lipa,11,250500,album,18,,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+26-05-2019 00:00,174,Watermelon Sugar,Harry Styles,72,250500,album,10,09-06-2019,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+24-11-2025 00:00,,Good 4 U,Olivia Rodrigo,56,197164,EP,1,04-07-2015,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+02-04-2021 00:00,159,Birds of a Feather,Billie Eilish,89,307125,single,20,25-11-2021,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+22-06-2021 00:00,,Good 4 U,Olivia Rodrigo,56,300000,album,7,,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+24-08-2024 00:00,36,Stay,The Kid LAROI & Justin Bieber,97,250500,album,10,,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+17-11-2024 00:00,174,APT.,ROSÉ & Bruno Mars,79,167000,album,10,01-08-2024,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+25-04-2025 00:00,45,The Fate of Ophelia,Taylor Swift,56,250500,EP,10,10-02-2018,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+26-02-2020 00:00,122,Birds of a Feather,Billie Eilish,27,258000,album,10,01-11-2022,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+17-08-2019 00:00,,The Fate of Ophelia,Taylor Swift,56,250500,single,10,08-02-2018,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+15-08-2025 00:00,195,Opalite,Taylor Swift,42,417000,EP,18,,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+24-01-2021 00:00,189,Levitating,Dua Lipa,60,305129,album,2,25-12-2022,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+27-12-2025 00:00,116,Blinding Lights,The Weeknd,15,250500,album,10,16-01-2016,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+26-04-2025 00:00,,Good 4 U,Olivia Rodrigo,56,250500,album,20,01-11-2022,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+18-12-2022 00:00,,Watermelon Sugar,Harry Styles,52,199375,album,10,06-02-2016,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+16-06-2024 00:00,,Good 4 U,Olivia Rodrigo,56,250500,single,9,10-06-2022,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+23-03-2023 00:00,74,Levitating,Dua Lipa,93,192271,album,19,05-12-2022,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+22-10-2025 00:00,187,Opalite,Taylor Swift,48,275562,album,10,15-04-2024,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+27-05-2025 00:00,,Levitating,Dua Lipa,64,250500,album,16,10-11-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+,71,Birds of a Feather,Billie Eilish,56,300000,album,10,17-06-2016,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+23-08-2021 00:00,92,Good 4 U,Olivia Rodrigo,56,250500,album,10,09-07-2016,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+27-04-2023 00:00,,APT.,ROSÉ & Bruno Mars,72,259404,single,5,10-06-2022,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+19-09-2024 00:00,31,APT.,ROSÉ & Bruno Mars,56,152692,EP,10,22-03-2018,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+06-06-2021 00:00,,Opalite,Taylor Swift,35,175979,EP,10,06-05-2018,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+23-06-2022 00:00,,Watermelon Sugar,Harry Styles,56,313000,album,10,04-08-2016,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+11-02-2019 00:00,99,Opalite,Taylor Swift,56,300000,album,14,22-08-2016,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+13-11-2025 00:00,,Good 4 U,Olivia Rodrigo,56,188633,album,10,05-11-2018,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-01-2023 00:00,,Stay,The Kid LAROI & Justin Bieber,56,250500,album,10,11-08-2015,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+04-05-2019 00:00,,APT.,ROSÉ & Bruno Mars,56,300000,album,10,,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+04-01-2020 00:00,119,Blinding Lights,The Weeknd,56,132000,album,5,22-05-2019,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+11-06-2019 00:00,,APT.,ROSÉ & Bruno Mars,56,186000,single,10,28-05-2021,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+26-06-2024 00:00,61,Opalite,Taylor Swift,56,245000,album,7,11-11-2022,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+16-09-2024 00:00,,Die With A Smile,Lady Gaga & Bruno Mars,56,250500,single,10,19-05-2023,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+02-06-2019 00:00,,Opalite,Taylor Swift,77,250500,album,10,20-09-2016,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+27-10-2021 00:00,,Good 4 U,Olivia Rodrigo,56,128000,single,7,07-12-2015,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+11-12-2024 00:00,,Watermelon Sugar,Harry Styles,56,300000,EP,10,10-04-2021,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+19-12-2025 00:00,,Opalite,Taylor Swift,99,397000,album,15,14-12-2017,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+15-04-2022 00:00,,Blinding Lights,The Weeknd,56,300000,album,10,05-03-2021,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+28-09-2024 00:00,31,Levitating,Dua Lipa,63,191114,EP,14,19-06-2016,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+10-05-2021 00:00,8,APT.,ROSÉ & Bruno Mars,80,253000,EP,16,12-09-2016,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+09-12-2022 00:00,43,Die With A Smile,Lady Gaga & Bruno Mars,56,297074,single,10,19-01-2024,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+13-05-2021 00:00,14,Stay,The Kid LAROI & Justin Bieber,80,300000,single,9,18-08-2020,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+18-05-2019 00:00,173,Blinding Lights,The Weeknd,88,300000,single,17,18-06-2017,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+01-12-2025 00:00,119,Blinding Lights,The Weeknd,6,250500,single,10,26-05-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+20-10-2019 00:00,,Watermelon Sugar,Harry Styles,62,172422,album,10,02-03-2016,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+04-02-2020 00:00,153,Watermelon Sugar,Harry Styles,29,250500,album,10,08-06-2024,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+21-09-2022 00:00,,The Fate of Ophelia,Taylor Swift,56,250500,album,10,22-11-2024,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+06-07-2022 00:00,164,Watermelon Sugar,Harry Styles,56,250500,EP,10,14-05-2024,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+11-08-2019 00:00,120,Die With A Smile,Lady Gaga & Bruno Mars,56,205000,single,12,01-06-2016,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+13-04-2022 00:00,109,Birds of a Feather,Billie Eilish,56,365000,single,10,08-06-2023,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+01-12-2023 00:00,33,Levitating,Dua Lipa,56,300000,album,10,11-05-2023,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+21-10-2021 00:00,147,The Fate of Ophelia,Taylor Swift,56,384000,album,10,21-08-2024,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+24-08-2022 00:00,100,APT.,ROSÉ & Bruno Mars,56,250500,EP,10,08-09-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+17-04-2023 00:00,126,APT.,ROSÉ & Bruno Mars,64,300000,album,10,14-03-2024,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+23-03-2024 00:00,,Blinding Lights,The Weeknd,35,221768,EP,10,04-09-2021,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+02-12-2020 00:00,,Levitating,Dua Lipa,11,252398,EP,1,08-04-2021,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+06-11-2019 00:00,,APT.,ROSÉ & Bruno Mars,56,205775,EP,10,02-06-2024,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+08-01-2024 00:00,158,Birds of a Feather,Billie Eilish,56,213844,single,10,05-04-2019,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+09-11-2022 00:00,114,Birds of a Feather,Billie Eilish,13,160000,single,5,18-10-2017,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+08-07-2024 00:00,49,APT.,ROSÉ & Bruno Mars,56,300000,album,10,21-05-2022,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+13-11-2023 00:00,188,Opalite,Taylor Swift,98,250500,single,10,13-12-2018,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+14-12-2025 00:00,168,Die With A Smile,Lady Gaga & Bruno Mars,60,251000,single,16,15-02-2023,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+27-06-2021 00:00,171,Stay,The Kid LAROI & Justin Bieber,53,243330,single,10,27-12-2021,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+16-07-2021 00:00,99,Good 4 U,Olivia Rodrigo,29,286329,single,16,18-11-2019,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+28-06-2024 00:00,,Levitating,Dua Lipa,56,300000,single,10,03-05-2016,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+22-11-2022 00:00,,APT.,ROSÉ & Bruno Mars,56,170000,album,10,19-05-2021,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+23-04-2023 00:00,170,Stay,The Kid LAROI & Justin Bieber,29,188000,EP,10,20-12-2017,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+17-08-2025 00:00,,Levitating,Dua Lipa,56,300000,album,10,24-02-2016,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+10-06-2022 00:00,,Opalite,Taylor Swift,56,250500,EP,14,07-12-2020,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+06-02-2024 00:00,51,The Fate of Ophelia,Taylor Swift,90,300000,EP,10,24-09-2021,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+09-01-2021 00:00,174,Die With A Smile,Lady Gaga & Bruno Mars,59,250500,album,10,05-10-2018,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+22-04-2024 00:00,,APT.,ROSÉ & Bruno Mars,94,400000,single,4,01-09-2021,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+02-03-2019 00:00,,Blinding Lights,The Weeknd,56,273747,album,10,11-06-2022,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+11-03-2025 00:00,,Die With A Smile,Lady Gaga & Bruno Mars,56,300000,single,4,20-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+26-09-2023 00:00,154,APT.,ROSÉ & Bruno Mars,56,363000,EP,10,28-09-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+21-10-2020 00:00,40,Birds of a Feather,Billie Eilish,56,300000,single,16,27-03-2022,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+,,Blinding Lights,The Weeknd,21,171914,single,10,12-03-2020,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+16-06-2021 00:00,,Levitating,Dua Lipa,93,250500,single,10,08-01-2017,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+06-12-2019 00:00,76,The Fate of Ophelia,Taylor Swift,58,183000,single,10,14-12-2015,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+04-05-2020 00:00,,Stay,The Kid LAROI & Justin Bieber,8,223978,single,10,07-05-2015,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+02-10-2023 00:00,124,Opalite,Taylor Swift,56,250500,album,17,24-07-2020,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+17-11-2023 00:00,34,Watermelon Sugar,Harry Styles,56,315000,EP,20,21-10-2017,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+04-10-2024 00:00,56,The Fate of Ophelia,Taylor Swift,94,250500,single,10,12-01-2024,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+24-07-2024 00:00,,Good 4 U,Olivia Rodrigo,60,176103,EP,10,27-05-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+21-01-2022 00:00,,APT.,ROSÉ & Bruno Mars,95,301000,album,12,08-11-2018,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+20-08-2021 00:00,140,APT.,ROSÉ & Bruno Mars,56,181875,EP,10,07-03-2023,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,127,Stay,The Kid LAROI & Justin Bieber,98,162339,album,10,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,165,Levitating,Dua Lipa,35,248017,EP,4,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,13,Birds of a Feather,Billie Eilish,21,186368,single,11,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,44,Birds of a Feather,Billie Eilish,31,200111,EP,12,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,67,Die With A Smile,Lady Gaga & Bruno Mars,25,179046,single,10,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,85,Opalite,Taylor Swift,98,249498,album,6,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,118,Good 4 U,Olivia Rodrigo,35,183105,album,5,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,172,Levitating,Dua Lipa,35,286777,EP,8,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,72,Levitating,Dua Lipa,61,276538,single,3,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,183,Opalite,Taylor Swift,30,242539,EP,8,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,20,APT.,ROSÉ & Bruno Mars,83,165798,single,1,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,99,Levitating,Dua Lipa,44,277833,single,11,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,195,Good 4 U,Olivia Rodrigo,87,284722,album,10,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,130,The Fate of Ophelia,Taylor Swift,33,184094,single,12,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,159,Levitating,Dua Lipa,85,203220,album,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,109,Opalite,Taylor Swift,41,230516,EP,4,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,28,Levitating,Dua Lipa,34,213062,single,15,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,8,Opalite,Taylor Swift,80,289168,album,12,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,141,APT.,ROSÉ & Bruno Mars,30,242910,album,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,129,Blinding Lights,The Weeknd,75,283149,album,2,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,95,Opalite,Taylor Swift,32,162880,EP,13,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,76,Birds of a Feather,Billie Eilish,44,255563,single,20,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,156,Watermelon Sugar,Harry Styles,83,285952,album,4,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,29,Birds of a Feather,Billie Eilish,48,180195,single,2,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,17,Birds of a Feather,Billie Eilish,88,176484,album,8,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,101,Blinding Lights,The Weeknd,32,207642,EP,9,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,44,Birds of a Feather,Billie Eilish,46,241129,EP,10,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,25,Die With A Smile,Lady Gaga & Bruno Mars,43,281921,EP,20,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,177,Opalite,Taylor Swift,50,194625,album,3,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,86,The Fate of Ophelia,Taylor Swift,78,187180,single,16,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,6,Stay,The Kid LAROI & Justin Bieber,42,219162,single,6,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,91,Good 4 U,Olivia Rodrigo,80,150263,album,8,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,12,APT.,ROSÉ & Bruno Mars,22,298705,EP,10,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,129,Watermelon Sugar,Harry Styles,41,188425,single,4,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,116,Stay,The Kid LAROI & Justin Bieber,82,241955,EP,9,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,94,Opalite,Taylor Swift,78,153554,album,10,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,199,Watermelon Sugar,Harry Styles,96,276970,single,9,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,106,The Fate of Ophelia,Taylor Swift,48,187128,album,16,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,148,Birds of a Feather,Billie Eilish,75,244219,single,3,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,164,Blinding Lights,The Weeknd,33,221807,EP,18,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,45,Watermelon Sugar,Harry Styles,53,241447,album,13,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,80,Opalite,Taylor Swift,44,160774,EP,17,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,32,Good 4 U,Olivia Rodrigo,75,269282,EP,12,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,3,APT.,ROSÉ & Bruno Mars,83,188569,album,5,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,143,Good 4 U,Olivia Rodrigo,40,229598,album,10,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,4,Opalite,Taylor Swift,78,160735,single,10,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,126,Die With A Smile,Lady Gaga & Bruno Mars,59,151334,album,12,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,65,Die With A Smile,Lady Gaga & Bruno Mars,37,241807,album,17,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,183,APT.,ROSÉ & Bruno Mars,54,187393,EP,7,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,21,Good 4 U,Olivia Rodrigo,57,207372,single,16,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,174,Birds of a Feather,Billie Eilish,69,260772,album,4,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,153,Opalite,Taylor Swift,59,195430,EP,14,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,36,Good 4 U,Olivia Rodrigo,45,215541,single,14,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,79,Opalite,Taylor Swift,30,227944,EP,15,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,112,Blinding Lights,The Weeknd,32,186335,EP,15,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,176,Watermelon Sugar,Harry Styles,65,272782,album,14,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,106,Blinding Lights,The Weeknd,79,157254,EP,1,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,194,APT.,ROSÉ & Bruno Mars,37,229269,single,19,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,159,The Fate of Ophelia,Taylor Swift,89,298261,album,2,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,104,The Fate of Ophelia,Taylor Swift,20,271322,EP,15,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,15,APT.,ROSÉ & Bruno Mars,54,178062,album,20,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,145,Opalite,Taylor Swift,81,236850,single,4,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,133,Birds of a Feather,Billie Eilish,38,297337,EP,16,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,173,Birds of a Feather,Billie Eilish,39,228877,EP,10,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,160,Levitating,Dua Lipa,45,180070,single,1,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,31,Good 4 U,Olivia Rodrigo,86,175392,single,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,7,Levitating,Dua Lipa,84,266343,album,2,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,104,Opalite,Taylor Swift,81,198246,single,18,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,175,Good 4 U,Olivia Rodrigo,76,182295,album,5,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,37,The Fate of Ophelia,Taylor Swift,50,194767,EP,18,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,123,Levitating,Dua Lipa,57,225877,EP,4,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,171,Stay,The Kid LAROI & Justin Bieber,55,252547,album,4,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,109,Blinding Lights,The Weeknd,38,157332,album,15,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,100,Good 4 U,Olivia Rodrigo,21,229367,single,20,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,91,Die With A Smile,Lady Gaga & Bruno Mars,37,272659,EP,15,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,41,Die With A Smile,Lady Gaga & Bruno Mars,65,281239,EP,7,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,100,Watermelon Sugar,Harry Styles,85,166453,single,5,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,87,Good 4 U,Olivia Rodrigo,78,186710,album,10,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,166,APT.,ROSÉ & Bruno Mars,81,248703,album,20,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,182,Good 4 U,Olivia Rodrigo,84,287739,album,5,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,149,Good 4 U,Olivia Rodrigo,64,255846,single,2,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,60,The Fate of Ophelia,Taylor Swift,32,177845,album,16,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,198,Birds of a Feather,Billie Eilish,50,177638,single,13,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,16,APT.,ROSÉ & Bruno Mars,98,215662,single,2,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,196,Levitating,Dua Lipa,67,157722,single,11,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,97,Levitating,Dua Lipa,37,295874,single,7,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,113,Levitating,Dua Lipa,56,209112,single,6,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,50,Watermelon Sugar,Harry Styles,31,156355,EP,4,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,36,Die With A Smile,Lady Gaga & Bruno Mars,20,244256,album,19,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,48,Stay,The Kid LAROI & Justin Bieber,87,280069,single,7,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,91,Watermelon Sugar,Harry Styles,65,296459,single,3,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,161,Blinding Lights,The Weeknd,68,168577,EP,3,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,77,Watermelon Sugar,Harry Styles,32,180913,album,8,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,139,Good 4 U,Olivia Rodrigo,62,155909,single,10,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,181,Blinding Lights,The Weeknd,65,167813,single,10,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,148,Watermelon Sugar,Harry Styles,50,285727,EP,17,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,159,Blinding Lights,The Weeknd,27,293115,EP,4,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,168,Opalite,Taylor Swift,23,158460,album,14,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,86,Birds of a Feather,Billie Eilish,27,186513,single,18,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,61,Die With A Smile,Lady Gaga & Bruno Mars,83,169113,EP,20,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,19,Stay,The Kid LAROI & Justin Bieber,73,171127,EP,16,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,186,Opalite,Taylor Swift,25,177279,single,16,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,111,Stay,The Kid LAROI & Justin Bieber,81,229539,single,1,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,199,Die With A Smile,Lady Gaga & Bruno Mars,45,290033,EP,13,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,124,Watermelon Sugar,Harry Styles,26,251482,album,5,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,141,Blinding Lights,The Weeknd,37,180299,album,4,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,50,Stay,The Kid LAROI & Justin Bieber,63,264432,single,8,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,151,APT.,ROSÉ & Bruno Mars,21,209539,album,18,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,185,Die With A Smile,Lady Gaga & Bruno Mars,51,164911,single,2,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,47,Levitating,Dua Lipa,56,161460,album,12,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,34,Opalite,Taylor Swift,97,254285,album,4,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,65,APT.,ROSÉ & Bruno Mars,89,203965,album,12,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,183,Levitating,Dua Lipa,58,246189,EP,10,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,69,Watermelon Sugar,Harry Styles,60,291929,EP,4,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,106,Stay,The Kid LAROI & Justin Bieber,99,277456,album,3,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,134,The Fate of Ophelia,Taylor Swift,49,229937,EP,18,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,96,APT.,ROSÉ & Bruno Mars,38,159402,single,15,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,6,APT.,ROSÉ & Bruno Mars,83,158848,album,9,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,22,Opalite,Taylor Swift,27,223162,EP,13,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,98,Die With A Smile,Lady Gaga & Bruno Mars,69,266397,single,8,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,48,Blinding Lights,The Weeknd,75,289589,single,10,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,196,Watermelon Sugar,Harry Styles,64,156813,EP,11,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,56,Good 4 U,Olivia Rodrigo,23,239376,EP,20,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,187,Blinding Lights,The Weeknd,27,178628,EP,13,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,119,Watermelon Sugar,Harry Styles,74,298977,EP,9,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,120,Blinding Lights,The Weeknd,50,184569,single,9,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,64,APT.,ROSÉ & Bruno Mars,89,227548,album,19,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,158,Die With A Smile,Lady Gaga & Bruno Mars,55,244816,album,9,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,79,APT.,ROSÉ & Bruno Mars,92,234145,album,6,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,5,Levitating,Dua Lipa,76,152325,album,2,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,164,Levitating,Dua Lipa,91,207106,album,2,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,157,Opalite,Taylor Swift,90,232320,single,15,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,197,Opalite,Taylor Swift,55,218037,album,5,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,38,The Fate of Ophelia,Taylor Swift,99,162997,single,4,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,176,The Fate of Ophelia,Taylor Swift,84,265424,EP,11,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,184,Watermelon Sugar,Harry Styles,49,165941,EP,9,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,174,Die With A Smile,Lady Gaga & Bruno Mars,65,291673,EP,2,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,28,Stay,The Kid LAROI & Justin Bieber,29,282890,album,4,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,53,Birds of a Feather,Billie Eilish,61,299517,album,14,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,73,Blinding Lights,The Weeknd,38,156473,album,20,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,105,Stay,The Kid LAROI & Justin Bieber,67,273387,album,20,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,95,The Fate of Ophelia,Taylor Swift,25,226250,single,19,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,156,APT.,ROSÉ & Bruno Mars,47,232078,EP,17,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,97,Birds of a Feather,Billie Eilish,94,158545,EP,5,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,20,APT.,ROSÉ & Bruno Mars,48,298216,EP,19,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,188,Watermelon Sugar,Harry Styles,35,288348,single,20,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,134,Watermelon Sugar,Harry Styles,76,233083,album,7,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,85,Birds of a Feather,Billie Eilish,51,244886,single,15,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,178,APT.,ROSÉ & Bruno Mars,50,266656,EP,14,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,91,APT.,ROSÉ & Bruno Mars,91,282551,single,12,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,59,Good 4 U,Olivia Rodrigo,77,259799,single,19,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,63,Watermelon Sugar,Harry Styles,72,186212,EP,9,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,81,Stay,The Kid LAROI & Justin Bieber,35,171366,album,14,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,127,Good 4 U,Olivia Rodrigo,100,201931,single,15,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,31,The Fate of Ophelia,Taylor Swift,73,219042,EP,16,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,9,The Fate of Ophelia,Taylor Swift,75,156273,EP,6,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,132,The Fate of Ophelia,Taylor Swift,87,251741,album,12,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,179,Blinding Lights,The Weeknd,91,213290,EP,10,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,87,Stay,The Kid LAROI & Justin Bieber,95,178251,EP,2,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,115,Stay,The Kid LAROI & Justin Bieber,72,267900,EP,14,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,180,Levitating,Dua Lipa,37,198090,EP,19,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,2,The Fate of Ophelia,Taylor Swift,95,246960,EP,15,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,113,Stay,The Kid LAROI & Justin Bieber,42,283344,EP,19,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,60,APT.,ROSÉ & Bruno Mars,58,279313,album,2,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,83,Opalite,Taylor Swift,69,233513,single,5,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,111,Birds of a Feather,Billie Eilish,86,222943,EP,20,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,89,APT.,ROSÉ & Bruno Mars,56,193409,single,10,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,113,Levitating,Dua Lipa,48,194386,album,9,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,171,Birds of a Feather,Billie Eilish,55,186963,single,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,154,Die With A Smile,Lady Gaga & Bruno Mars,25,291513,EP,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,7,Levitating,Dua Lipa,67,203252,album,19,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,134,Levitating,Dua Lipa,36,268973,album,4,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,111,Levitating,Dua Lipa,83,218958,single,5,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,91,APT.,ROSÉ & Bruno Mars,30,208311,EP,3,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,130,The Fate of Ophelia,Taylor Swift,62,222380,album,17,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,10,Stay,The Kid LAROI & Justin Bieber,75,176329,EP,17,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,143,Birds of a Feather,Billie Eilish,100,159341,EP,1,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,151,The Fate of Ophelia,Taylor Swift,68,207726,EP,7,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,39,Levitating,Dua Lipa,82,199048,EP,16,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,51,The Fate of Ophelia,Taylor Swift,31,285346,EP,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,18,Blinding Lights,The Weeknd,82,296207,EP,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,108,Die With A Smile,Lady Gaga & Bruno Mars,53,249690,EP,19,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,124,Stay,The Kid LAROI & Justin Bieber,87,197202,album,8,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,126,Levitating,Dua Lipa,100,252815,EP,12,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,25,Opalite,Taylor Swift,48,179456,album,14,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,64,Stay,The Kid LAROI & Justin Bieber,74,180361,single,15,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,89,APT.,ROSÉ & Bruno Mars,70,183569,album,16,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,8,Birds of a Feather,Billie Eilish,57,220234,EP,7,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,144,Die With A Smile,Lady Gaga & Bruno Mars,61,218578,EP,11,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,114,Blinding Lights,The Weeknd,74,254511,album,2,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,187,Levitating,Dua Lipa,48,239087,EP,2,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,105,Levitating,Dua Lipa,48,193656,EP,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,157,Good 4 U,Olivia Rodrigo,62,183873,EP,18,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,98,Die With A Smile,Lady Gaga & Bruno Mars,31,237369,album,18,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,133,Die With A Smile,Lady Gaga & Bruno Mars,46,244921,EP,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,102,Watermelon Sugar,Harry Styles,49,226070,single,12,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,56,Blinding Lights,The Weeknd,90,215196,single,2,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,27,Watermelon Sugar,Harry Styles,84,254316,album,2,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,78,Opalite,Taylor Swift,23,210294,EP,8,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,192,Opalite,Taylor Swift,35,249052,EP,13,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,22,Opalite,Taylor Swift,29,169369,EP,14,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,191,Die With A Smile,Lady Gaga & Bruno Mars,89,189805,single,19,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,156,Birds of a Feather,Billie Eilish,59,234863,album,17,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,71,Opalite,Taylor Swift,78,203127,single,9,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,75,Blinding Lights,The Weeknd,74,174395,single,14,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,73,Levitating,Dua Lipa,88,282800,single,13,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,187,Levitating,Dua Lipa,70,247710,EP,4,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,148,Birds of a Feather,Billie Eilish,23,254162,single,15,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,145,Levitating,Dua Lipa,33,231424,album,5,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,144,APT.,ROSÉ & Bruno Mars,41,204442,album,19,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,37,APT.,ROSÉ & Bruno Mars,71,274129,EP,19,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,197,Die With A Smile,Lady Gaga & Bruno Mars,83,216066,album,10,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,10,The Fate of Ophelia,Taylor Swift,61,298193,EP,14,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,177,Opalite,Taylor Swift,46,297432,album,18,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,167,Stay,The Kid LAROI & Justin Bieber,50,234367,album,16,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,109,APT.,ROSÉ & Bruno Mars,29,248483,single,1,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,192,Watermelon Sugar,Harry Styles,35,193567,single,15,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,109,Die With A Smile,Lady Gaga & Bruno Mars,83,194753,EP,17,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,192,The Fate of Ophelia,Taylor Swift,90,259614,album,1,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,112,APT.,ROSÉ & Bruno Mars,57,221069,EP,11,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,167,Good 4 U,Olivia Rodrigo,41,187097,album,17,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,183,Good 4 U,Olivia Rodrigo,67,286152,EP,9,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,54,Levitating,Dua Lipa,62,185478,single,17,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,82,Die With A Smile,Lady Gaga & Bruno Mars,73,196982,single,16,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,80,Die With A Smile,Lady Gaga & Bruno Mars,44,202236,EP,4,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,25,Stay,The Kid LAROI & Justin Bieber,27,272865,EP,6,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,163,Stay,The Kid LAROI & Justin Bieber,91,209252,album,1,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,73,Opalite,Taylor Swift,74,230150,album,20,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,144,Opalite,Taylor Swift,89,203107,single,19,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,188,APT.,ROSÉ & Bruno Mars,47,223396,single,9,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,134,The Fate of Ophelia,Taylor Swift,95,250387,album,19,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,172,Good 4 U,Olivia Rodrigo,80,204868,single,1,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,24,Birds of a Feather,Billie Eilish,98,188401,single,6,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,83,Die With A Smile,Lady Gaga & Bruno Mars,29,163681,single,17,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,171,Blinding Lights,The Weeknd,80,235744,album,17,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,144,Birds of a Feather,Billie Eilish,70,248909,album,16,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,134,Opalite,Taylor Swift,60,289116,single,20,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,163,The Fate of Ophelia,Taylor Swift,55,187456,album,18,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,178,Levitating,Dua Lipa,52,181520,EP,14,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,7,The Fate of Ophelia,Taylor Swift,66,272178,EP,12,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,158,Birds of a Feather,Billie Eilish,91,200065,album,12,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,51,Die With A Smile,Lady Gaga & Bruno Mars,76,244631,EP,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,80,Good 4 U,Olivia Rodrigo,62,174669,album,9,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,70,Good 4 U,Olivia Rodrigo,24,222076,EP,16,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,179,Die With A Smile,Lady Gaga & Bruno Mars,52,221873,EP,2,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,156,Levitating,Dua Lipa,100,269139,album,6,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,27,Watermelon Sugar,Harry Styles,24,246871,single,20,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,34,The Fate of Ophelia,Taylor Swift,30,259988,single,2,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,81,Die With A Smile,Lady Gaga & Bruno Mars,32,292628,album,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,173,Stay,The Kid LAROI & Justin Bieber,60,194358,EP,12,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,107,Blinding Lights,The Weeknd,27,167027,single,17,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,22,Opalite,Taylor Swift,42,266234,single,9,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,105,Watermelon Sugar,Harry Styles,42,150845,album,9,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b2736e2101520787791370f4a96b
+05-12-2025,88,APT.,ROSÉ & Bruno Mars,79,298943,EP,3,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,30,APT.,ROSÉ & Bruno Mars,31,197841,EP,3,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,152,Stay,The Kid LAROI & Justin Bieber,100,155271,single,1,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,118,Stay,The Kid LAROI & Justin Bieber,30,214679,album,7,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,14,Opalite,Taylor Swift,68,225255,single,9,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,81,Good 4 U,Olivia Rodrigo,72,209234,single,9,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,76,The Fate of Ophelia,Taylor Swift,53,265238,album,3,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,149,Stay,The Kid LAROI & Justin Bieber,66,241451,EP,17,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,10,The Fate of Ophelia,Taylor Swift,94,251103,single,18,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,89,Blinding Lights,The Weeknd,56,204380,album,17,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,132,APT.,ROSÉ & Bruno Mars,46,217689,single,15,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,30,Die With A Smile,Lady Gaga & Bruno Mars,86,198870,album,5,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,83,Good 4 U,Olivia Rodrigo,67,297788,album,19,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,180,Stay,The Kid LAROI & Justin Bieber,33,244079,single,6,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,86,Levitating,Dua Lipa,63,176268,single,12,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,120,The Fate of Ophelia,Taylor Swift,89,198800,single,15,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,148,Good 4 U,Olivia Rodrigo,75,254682,album,8,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,154,Stay,The Kid LAROI & Justin Bieber,63,276499,EP,13,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,60,Die With A Smile,Lady Gaga & Bruno Mars,84,178273,album,14,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,103,Good 4 U,Olivia Rodrigo,95,157485,single,17,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,153,Opalite,Taylor Swift,87,202025,EP,5,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-12-2025,14,Stay,The Kid LAROI & Justin Bieber,31,231074,single,12,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,43,Blinding Lights,The Weeknd,78,150221,EP,5,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,78,The Fate of Ophelia,Taylor Swift,59,171069,single,8,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,24,Blinding Lights,The Weeknd,51,190406,EP,18,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,123,Die With A Smile,Lady Gaga & Bruno Mars,40,240364,single,16,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
+05-12-2025,121,Birds of a Feather,Billie Eilish,68,271499,EP,8,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b
+05-12-2025,33,Blinding Lights,The Weeknd,60,185003,album,11,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,153,Blinding Lights,The Weeknd,70,290015,single,12,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,7,Good 4 U,Olivia Rodrigo,48,196703,single,12,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,129,Stay,The Kid LAROI & Justin Bieber,20,254380,single,8,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,49,Levitating,Dua Lipa,25,205373,album,14,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27317875a0610c23d8946454583
+05-12-2025,99,Stay,The Kid LAROI & Justin Bieber,43,261597,single,10,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58
+05-12-2025,173,Blinding Lights,The Weeknd,81,159129,album,14,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,102,The Fate of Ophelia,Taylor Swift,86,177900,album,3,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27309d6ed214f03fbb663e46531
+05-12-2025,168,APT.,ROSÉ & Bruno Mars,71,153204,single,11,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,130,Good 4 U,Olivia Rodrigo,69,269194,single,16,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,198,Blinding Lights,The Weeknd,26,229417,album,9,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2
+05-12-2025,116,Good 4 U,Olivia Rodrigo,84,247733,album,11,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626
+05-12-2025,46,APT.,ROSÉ & Bruno Mars,74,289385,album,3,05-12-2025,TRUE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-12-2025,87,Die With A Smile,Lady Gaga & Bruno Mars,95,217590,single,17,05-12-2025,FALSE,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62
